@@ -4,7 +4,7 @@ You will have to do three things in order to run the project.
 ## Set up GraphQL
 1. Log into GitHub
 2. Go to Settings > Developer Settings > Personal access tokens
-3. Click 'generate new token' and you will be prompted to select scopes. Choose the following:
+3. Click 'generate new token' and you will be prompted to select scopes. Choose the following:  
     Under 'repo', select all  
     Under 'admin:org', select 'read'  
     Under 'admin:repo_hook', select 'read'  
